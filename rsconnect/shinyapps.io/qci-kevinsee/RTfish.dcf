@@ -1,0 +1,12 @@
+name: RTfish
+title: RTfish
+username:
+account: qci-kevinsee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 349095
+bundleId: 1403086
+url: https://qci-kevinsee.shinyapps.io/RTfish/
+when: 1527787590.31024
+asMultiple: FALSE
+asStatic: FALSE

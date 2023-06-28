@@ -1,0 +1,14 @@
+name: Lemhi_RT
+title: Lemhi_RT
+username:
+account: mounthoodenvironmental
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9380759
+bundleId: 7399637
+url: https://mounthoodenvironmental.shinyapps.io/Lemhi_RT/
+when: 1687988141.16517
+lastSyncTime: 1687988141.16517
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_dev.R
